@@ -1,3 +1,28 @@
 # Link para download do Git: https://git-scm.com/downloads
 
-## O Git Bash e um terminal estendido para optimizar o uso do git.
+
+
+- O Git foi criado em 2005;
+
+- E' um sistema de versionamento de codigo distribuido;
+
+- Por: Linus Torvalds
+
+  
+
+O Git Bash e' um terminal estendido para optimizar o uso do git.
+
+O Git e' CLI (command line interface)
+
+
+
+#### Navegacao basica
+
+cd (change diretory) - navegar pelas pastas
+
+dir - listar todas as pastas
+
+mkdir - criar diretorios
+
+rmdir - remover diretorio
+

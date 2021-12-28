@@ -1,0 +1,37 @@
+## Logica de Programação Essencial
+
+Logica de programação e' a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. Faz uso de algoritmos, que são sequencias de passos bem estabelecidos, como por exemplo, uma receita de bolo.
+
+Algoritmo e' uma sequencia de passos lógicos e não ambíguo para resolver um determinado problema.
+
+Os algoritmos podem ser representados usando fluxograma ou pseudocódigo.
+
+Para representar fluxograma usamos a aplicação *flowgorithm* e podemos baixar no link: 
+
+http://www.flowgorithm.org/download/
+
+
+
+E para representar pseudocódigos usamos o Portugol que e' um pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português de forma simples e intuitiva, independentemente de linguaguem de programação podemos baixar no link:
+
+http://lite.acad.univali.br/portugol/
+
+Nota: *E' recomendado sempre que se faca um teste de mesa antes*
+
+
+
+Linguagem de programação e uma linguagem escrita formal que especifica um conjunto de instruções e regras usadas para gerar programas (softwares).
+
+-  Sua função e' servir de um meio de comunicação entre o computador e o humano.
+
+Existem dois tipos:
+
+- Compiladas;
+- Interpretadas.
+
+
+
+
+
+  
+

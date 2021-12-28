@@ -1,0 +1,26 @@
+# Estrutura de dados
+
+#### Estrutura de dados e' uma estrutura organizada de dados na memoria de um computador ou em qualquer dispositivo de armazenamento de forma que os dados possam ser utilizados de forma correta.
+
+Em uma estrutura de dados devemos saber como realizar determinado conjunto de operações básicas como:
+
+- Inserir dados;
+- Excluir dados;
+- Localizar um elemento;
+- Percorrer todos os itens constituintes da estrutura para visualização
+
+
+
+## Principais estruturas
+
+- Vetores e matrizes (Arrays);
+- Registro;
+- Lista (ligada e duplamente ligada);
+- Pilha (LIFO ou UEPS e FIFO ou PEPS);
+- Fila;
+- Arvore;
+- Tabela hash; e
+- Grafos.
+
+
+

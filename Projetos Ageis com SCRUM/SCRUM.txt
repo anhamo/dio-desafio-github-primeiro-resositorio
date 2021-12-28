@@ -1,0 +1,23 @@
+# SCRUM
+
+- E' um framework de gerenciamento de projetos ágeis.
+- Projetos usando equipes pequenas e multidisciplinares produzem melhores resultados.
+
+#### Pilares
+
+- Transparência;
+- Adaptação;
+- Inspeção.
+
+#### Razoes para adotar o SCRUM
+
+- Desenvolvido e entregue em partes menores (2 a 4 semanas), com constante feedback dos usuários;
+- Melhor gerenciamento de riscos; (Redução de incertezas);
+- Comprometimento, motivação e transparência da equipe; (Dayly meeting)
+- Maior valor para o negocio; (Priorização de backlog)
+- Usuários envolvidos durante todo ciclo;
+- Aplicações das lições aprendidas; (Melhoria continua) 
+
+
+
+*Ágil e' diferente de rápido* 
